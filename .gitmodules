@@ -1,0 +1,3 @@
+[submodule "boopes"]
+	path = boopes
+	url = https://github.com/Wholesomeisland/boopes
