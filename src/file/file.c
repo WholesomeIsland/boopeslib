@@ -1,4 +1,4 @@
-#include "../include/file.h"
+#include "../../include/file.h"
 
 method_def(File, void, open, char* filename, char* mode){
 this->inner = fopen(filename, mode);
