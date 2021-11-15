@@ -1,3 +1,6 @@
+//this is titled bstring.h to not conflict with string.h
+
+
 #include <string.h>
 
 class(string)
